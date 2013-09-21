@@ -15,7 +15,5 @@
         <h1>WebService SorteGrande</h1>
         <br>
         WSDL: http://localhost:8080/SorteGrande/wsSorteGrande?wsdl
-        <br>
-        Tester http://localhost:8080/SorteGrande/wsSorteGrande?Tester
     </body>
 </html>
